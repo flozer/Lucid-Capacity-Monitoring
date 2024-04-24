@@ -2144,7 +2144,7 @@
         "kind": "m",
         "expression": [
           "let",
-          "\tdatabase = Sql.Database(\"r5zdyqgevxyuzf5xzma7clk7wa-uagdvc7gpvyuvdstc5agx2y7yy.datawarehouse.fabric.microsoft.com\", \"b0a16d97-4396-468c-b8ac-254b63537570\")",
+          "\tdatabase = Sql.Database(\"uagdvc7gpvyuvdstc5agx2y7yy.datawarehouse.fabric.microsoft.com\", \"r5zdyqgevxyuzf5xzma7clk7wa\")",
           "in",
           "\tdatabase"
         ],
